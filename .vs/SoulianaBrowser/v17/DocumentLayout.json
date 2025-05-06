@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zohan\\source\\repos\\SoulianaBrowser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7530201-D99A-41D8-ADE1-7980AB726340}|SoulianaBrowser\\SoulianaBrowser.csproj|c:\\users\\zohan\\source\\repos\\soulianabrowser\\soulianabrowser\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7530201-D99A-41D8-ADE1-7980AB726340}|SoulianaBrowser\\SoulianaBrowser.csproj|solutionrelative:soulianabrowser\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SoulianaBrowser||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7530201-D99A-41D8-ADE1-7980AB726340}|SoulianaBrowser\\SoulianaBrowser.csproj|C:\\Users\\zohan\\source\\repos\\SoulianaBrowser\\soulianabrowser\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7530201-D99A-41D8-ADE1-7980AB726340}|SoulianaBrowser\\SoulianaBrowser.csproj|solutionrelative:soulianabrowser\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7530201-D99A-41D8-ADE1-7980AB726340}|SoulianaBrowser\\SoulianaBrowser.csproj|C:\\Users\\zohan\\source\\repos\\SoulianaBrowser\\soulianabrowser\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7530201-D99A-41D8-ADE1-7980AB726340}|SoulianaBrowser\\SoulianaBrowser.csproj|solutionrelative:soulianabrowser\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7530201-D99A-41D8-ADE1-7980AB726340}|SoulianaBrowser\\SoulianaBrowser.csproj|c:\\users\\zohan\\source\\repos\\soulianabrowser\\soulianabrowser\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoulianaBrowser",
+              "DocumentMoniker": "C:\\Users\\zohan\\source\\repos\\SoulianaBrowser\\SoulianaBrowser\\SoulianaBrowser.csproj",
+              "RelativeDocumentMoniker": "SoulianaBrowser\\SoulianaBrowser.csproj",
+              "ToolTip": "C:\\Users\\zohan\\source\\repos\\SoulianaBrowser\\SoulianaBrowser\\SoulianaBrowser.csproj",
+              "RelativeToolTip": "SoulianaBrowser\\SoulianaBrowser.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T21:38:16.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\zohan\\source\\repos\\SoulianaBrowser\\SoulianaBrowser\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SoulianaBrowser\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\zohan\\source\\repos\\SoulianaBrowser\\SoulianaBrowser\\MainWindow.xaml",
+              "RelativeToolTip": "SoulianaBrowser\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-05T20:11:04.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zohan\\source\\repos\\SoulianaBrowser\\SoulianaBrowser\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SoulianaBrowser\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\zohan\\source\\repos\\SoulianaBrowser\\SoulianaBrowser\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SoulianaBrowser\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAywFgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:11:03.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\zohan\\source\\repos\\SoulianaBrowser\\SoulianaBrowser\\App.xaml",
+              "RelativeDocumentMoniker": "SoulianaBrowser\\App.xaml",
+              "ToolTip": "C:\\Users\\zohan\\source\\repos\\SoulianaBrowser\\SoulianaBrowser\\App.xaml",
+              "RelativeToolTip": "SoulianaBrowser\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-05T20:26:46.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

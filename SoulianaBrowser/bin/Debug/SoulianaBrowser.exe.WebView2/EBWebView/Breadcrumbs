@@ -1,0 +1,131 @@
+0:00:00 Tab1 PageLoad #bing
+0:00:04 Memory Pressure: Moderate
+0:00:07 Microsoft.NewBrowser_Popup
+0:00:07 Microsoft.BrowserList.AddBrowser
+0:00:07 Browser2 Insert active Tab2 at 0
+0:00:07 Tab2 StartNav3 #auto_toplevel
+0:00:07 Tab2 StartNav4 #typed
+0:00:08 Tab2 FinishNav3
+0:00:08 Tab2 PageLoad
+0:00:08 Tab2 FinishNav4
+0:00:08 Tab2 PageLoad
+0:00:12 Memory Pressure: Critical
+0:00:12 Microsoft.NewBrowser_Popup
+0:00:12 Microsoft.BrowserList.AddBrowser
+0:00:12 Browser3 Insert active Tab3 at 0
+0:00:12 Tab3 StartNav5 #auto_toplevel
+0:00:12 Tab3 StartNav6 #typed
+0:00:12 Tab3 FinishNav5
+0:00:12 Tab3 PageLoad
+0:00:12 Tab3 FinishNav6
+0:00:12 Tab3 PageLoad
+0:00:13 Microsoft.NewBrowser_Popup
+0:00:13 Microsoft.BrowserList.AddBrowser
+0:00:13 Browser4 Insert active Tab4 at 0
+0:00:13 Tab4 StartNav7 #auto_toplevel
+0:00:13 Tab4 StartNav8 #typed
+0:00:13 Tab4 FinishNav7
+0:00:13 Tab4 PageLoad
+0:00:13 Tab4 FinishNav8
+0:00:13 Tab4 PageLoad
+0:00:13 Microsoft.NewBrowser_Popup
+0:00:14 Microsoft.BrowserList.AddBrowser
+0:00:14 Browser5 Insert active Tab5 at 0
+0:00:14 Tab5 StartNav9 #auto_toplevel
+0:00:14 Tab5 StartNav10 #typed
+0:00:14 Tab5 FinishNav9
+0:00:14 Tab5 PageLoad
+0:00:14 Tab5 FinishNav10
+0:00:14 Tab5 PageLoad
+0:00:15 Memory Pressure: Moderate
+0:00:16 Browser1 Close Tab1 at 0
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 FinishNav2
+0:00:00 Tab1 PageLoad #bing
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav2
+0:00:00 Tab1 PageLoad #bing
+0:00:05 Browser1 Close Tab1 at 0
+0:00:05 Tab1 WebContentsDestroyed
+0:00:05 Microsoft.Shutdown.OnWindowClosing
+0:00:05 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:00:05 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:00:05 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:00:05 Widget Closed: BrowserFrame
+0:00:05 Microsoft.Shutdown.OnWindowClosing
+0:00:05 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:00:05 Widget Closed: 
+0:00:05 Microsoft.Last_Browser_Removed
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 FinishNav2
+0:00:00 Tab1 PageLoad #bing
+0:00:06 Microsoft.NewBrowser_Popup
+0:00:06 Microsoft.BrowserList.AddBrowser
+0:00:06 Browser2 Insert active Tab2 at 0
+0:00:06 Tab2 StartNav3 #auto_toplevel
+0:00:06 Tab2 StartNav4 #typed
+0:00:06 Tab2 FinishNav3
+0:00:06 Tab2 PageLoad
+0:00:06 Tab2 FinishNav4
+0:00:06 Microsoft.NewBrowser_Popup
+0:00:06 Microsoft.BrowserList.AddBrowser
+0:00:06 Browser3 Insert active Tab3 at 0
+0:00:06 Tab3 StartNav5 #auto_toplevel
+0:00:06 Tab2 PageLoad
+0:00:06 Tab3 StartNav6 #typed
+0:00:06 Tab3 FinishNav5
+0:00:06 Tab3 PageLoad
+0:00:06 Tab3 FinishNav6
+0:00:06 Tab3 PageLoad
+0:00:06 Microsoft.NewBrowser_Popup
+0:00:06 Microsoft.BrowserList.AddBrowser
+0:00:06 Browser4 Insert active Tab4 at 0
+0:00:06 Tab4 StartNav7 #auto_toplevel
+0:00:07 Tab4 StartNav8 #typed
+0:00:07 Tab4 FinishNav7
+0:00:07 Tab4 PageLoad
+0:00:07 Tab4 FinishNav8
+0:00:07 Tab4 PageLoad
+0:00:10 Memory Pressure: Moderate
+0:00:14 Browser1 Close Tab1 at 0
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav2
+0:00:01 Tab1 PageLoad #bing
+0:00:04 Memory Pressure: Moderate
+0:00:09 Browser1 Close Tab1 at 0
